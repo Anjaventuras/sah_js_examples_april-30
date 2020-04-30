@@ -1,3 +1,13 @@
 p { 
     color:red;
 }
+
+.blue { 
+    background: blue;
+
+}
+
+.box { 
+    widt: 30px;
+    height: 30px;
+}
